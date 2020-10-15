@@ -1,5 +1,4 @@
 theme: jekyll-theme-cayman
-github:
-  repository_name: "FUKS project"
-  project_tagline: "w/ description"
+title: "FUKS project"
+description: "w/ description"
 
