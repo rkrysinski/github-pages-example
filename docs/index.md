@@ -1,5 +1,6 @@
 ## Welcome to GitHub Pages
 
+[About](about)
 <p align="center">
   <b>Some Links:</b><br>
   <a href="about">Link 1</a> |
