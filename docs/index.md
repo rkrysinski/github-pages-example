@@ -2,9 +2,11 @@
 
 <p align="center">
   <b>Some Links:</b><br>
-  <a href="#">[About](about)</a> |
-  <a href="#">[About](about)</a> |
-  <a href="#">[About](about)</a>
+  <ul>
+    <li>[About](about)</li>
+    <li>[About](about)</li>
+    <li>[About](about)</li>
+   <ul>
 </p>
 
 ### Markdown
