@@ -2,4 +2,6 @@
 
 [About](about)
 
-<a href="about">Link 1</a> 
+<p aligh="center">
+  <a href="about">Link 1</a> 
+</p>
