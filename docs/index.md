@@ -1,6 +1,11 @@
 ## Welcome to GitHub Pages
 
-[About](about)
+<p align="center">
+  <b>Some Links:</b><br>
+  <a href="#">[About](about)</a> |
+  <a href="#">[About](about)</a> |
+  <a href="#">[About](about)</a>
+</p>
 
 ### Markdown
 
