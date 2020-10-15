@@ -1,13 +1,9 @@
 ## Welcome to GitHub Pages
 
 [About](about)
-<p align="center">
-  <b>Some Links:</b><br>
-  <a href="about">Link 1</a> |
-  <a href="about">Link 2</a> |
-  <a href="about">Link 3</a>
-</p>
 
+<a href="about">Link 1</a> |
+ 
 ### Markdown123
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
