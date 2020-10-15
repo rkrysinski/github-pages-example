@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
-title: "Development Site"
-description: "A simple Jekyll theme for words and pictures."
+github:
+  repository_name: "FUKS project"
+  project_tagline: "w/ description"
+
