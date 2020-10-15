@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-# [About](about)
+[About](about)
 
 ### Markdown
 
