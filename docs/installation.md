@@ -4,3 +4,5 @@
 ## Devops tools installation
 
 Content goes here.
+
+[back](index)
