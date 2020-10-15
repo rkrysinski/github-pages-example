@@ -1,4 +1,4 @@
-<p aligh="center">
+<p align="center">
   <a href="about">Installation documentation</a> |
   <a href="about">User Manuals</a> |
   <a href="about">Downloads</a> |
